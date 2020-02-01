@@ -6,7 +6,7 @@ Uruchomienie polegana włączeniu pliku testownik.exe. Pytania są w folderze ba
 Jest możliwość pobrania testownika w lepszej, nowszej odświeżonej wersji
   | z Microsoft Store na wasze urządzenia z Windowsem. 
 Na początku działania programu wybieramy ile razy pytanie ma występować(lub w ustawieniach). 
-  | Ta baza posiada 3483 pytań więc jeżeli wybierzecie że 3 razy to będziecie mieć 483*3=1449 pytań
+  | Ta baza posiada 483 pytań więc jeżeli wybierzecie że 3 razy to będziecie mieć 483*3=1449 pytań
      | tego nie polecam. Dla mnie normalnie ustawienie to 1 i ewentualnie 1 lub 2 powtorzenia w razie pomyłki.
 W razie znalezionym błędów czy pomyłek zapraszam do kontaktu z Kasią Machajską. 
 Życze powodzenia wszystkim :)
